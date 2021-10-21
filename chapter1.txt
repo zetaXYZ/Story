@@ -1,0 +1,1 @@
+Ciao non riesco ad usare open nel terminale.
